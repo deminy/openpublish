@@ -28,7 +28,7 @@ projects[features][subdir] = contrib
 projects[features][version] = 1.0
 
 projects[features_override][subdir] = contrib
-projects[features_override][version] = 2.0-beta1
+projects[features_override][version] = 2.0-rc1
 
 projects[openidadmin][subdir] = contrib
 projects[openidadmin][version] = 1.0
@@ -40,10 +40,10 @@ projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0
 
 projects[token][subdir] = contrib
-projects[token][version] = 1.4
+projects[token][version] = 1.5
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.5
+projects[views][version] = 3.7
 
 projects[vntf][subdir] = contrib
 projects[vntf][version] = 1.0-beta6
@@ -72,10 +72,10 @@ projects[filefield_sources][subdir] = contrib
 projects[filefield_sources][version] = 1.9
 
 projects[nodeblock][subdir] = contrib
-projects[nodeblock][version] = 1.2
+projects[nodeblock][version] = 1.4
 
 projects[xmlsitemap][subdir] = contrib
-projects[xmlsitemap][version] = 2.0-rc1
+projects[xmlsitemap][version] = 2.0-rc2
 
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.2
@@ -94,7 +94,7 @@ projects[recaptcha][subdir] = contrib
 projects[recaptcha][version] = 1.8
 
 projects[link][subdir] = contrib
-projects[link][version] = 1.0
+projects[link][version] = 1.2
 
 projects[video_embed_field][subdir] = contrib
 projects[video_embed_field][version] = 2.0-beta5
@@ -103,7 +103,7 @@ projects[ga_stats][subdir] = contrib
 projects[ga_stats][version] = 1.0-beta2
 
 projects[schemaorg][subdir] = contrib
-projects[schemaorg][version] = 1.0-beta3
+projects[schemaorg][version] = 1.0-beta4
 
 projects[libraries][subdir] = contrib
 projects[libraries][version] = 1.0
@@ -121,10 +121,7 @@ projects[plupload][subdir] = contrib
 projects[plupload][version] = 1.4
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.x-dev
-projects[context][download][type] = git
-projects[context][download][url] = http://git.drupal.org/project/context.git
-projects[context][download][revision] = 9539d091d836a56b6f1509e8a2ede435d083ef92
+projects[context][version] = 3.1
 
 projects[boxes][subdir] = contrib
 projects[boxes][version] = 1.1
