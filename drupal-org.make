@@ -1,22 +1,22 @@
 api = 2
 core = 7.x
 projects[field_group][subdir] = contrib
-projects[field_group][version] = 1.1
+projects[field_group][version] = 1.3
 
 projects[references][subdir] = contrib
-projects[references][version] = 2.0
+projects[references][version] = 2.1
 
 projects[node_reference_view_formatter][subdir] = contrib
 projects[node_reference_view_formatter][version] = 1.0-beta3
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.2
+projects[ctools][version] = 1.3
 
 projects[date][subdir] = contrib
 projects[date][version] = 2.6
 
 projects[diff][subdir] = contrib
-projects[diff][version] = 2.0
+projects[diff][version] = 3.2
 
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.x-dev
@@ -52,10 +52,10 @@ projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
 
 projects[entitycache][subdir] = contrib
-projects[entitycache][version] = 1.1
+projects[entitycache][version] = 1.2
 
 projects[conditional_styles][subdir] = contrib
-projects[conditional_styles][version] = 2.1
+projects[conditional_styles][version] = 2.2
 
 projects[references_dialog][subdir] = contrib
 projects[references_dialog][version] = 1.0-alpha4
@@ -64,12 +64,12 @@ projects[apps][subdir] = contrib
 projects[apps][version] = 1.0-beta7
 
 projects[imce][subdir] = contrib
-projects[imce][version] = 1.5
+projects[imce][version] = 1.7
 projects[imce_wysiwyg][subdir] = contrib
 projects[imce_wysiwyg][version] = 1.0
 
 projects[filefield_sources][subdir] = contrib
-projects[filefield_sources][version] = 1.6
+projects[filefield_sources][version] = 1.9
 
 projects[nodeblock][subdir] = contrib
 projects[nodeblock][version] = 1.2
@@ -84,7 +84,7 @@ projects[addthis][subdir] = contrib
 projects[addthis][version] = 2.1-beta1
 
 projects[google_analytics][subdir] = contrib
-projects[google_analytics][version] = 1.2
+projects[google_analytics][version] = 1.4
 
 projects[captcha][version] = 1.0-beta2
 projects[captcha][subdir] = contrib
@@ -118,7 +118,7 @@ projects[field_collection_bulkupload][subdir] = contrib
 projects[field_collection_bulkupload][version] = 1.0-alpha1
 
 projects[plupload][subdir] = contrib
-projects[plupload][version] = 1.0
+projects[plupload][version] = 1.4
 
 projects[context][subdir] = contrib
 projects[context][version] = 3.x-dev
@@ -127,10 +127,10 @@ projects[context][download][url] = http://git.drupal.org/project/context.git
 projects[context][download][revision] = 9539d091d836a56b6f1509e8a2ede435d083ef92
 
 projects[boxes][subdir] = contrib
-projects[boxes][version] = 1.0
+projects[boxes][version] = 1.1
 
 projects[context_field][subdir] = contrib
-projects[context_field][version] = 1.0-beta4
+projects[context_field][version] = 1.0-beta5
 
 projects[views_boxes][subdir] = contrib
 projects[views_boxes][version] = 1.0-beta8
