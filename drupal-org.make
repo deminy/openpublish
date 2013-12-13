@@ -86,7 +86,7 @@ projects[addthis][version] = 2.1-beta1
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.4
 
-projects[captcha][version] = 1.0-beta2
+projects[captcha][version] = 1.0
 projects[captcha][subdir] = contrib
 projects[captcha][patch][] = http://drupal.org/files/issues/825088-19-captcha_ctools_export.patch
 
@@ -133,13 +133,13 @@ projects[views_boxes][subdir] = contrib
 projects[views_boxes][version] = 1.0-beta8
 
 projects[entity_autocomplete][subdir] = contrib
-projects[entity_autocomplete][version] = 1.0-beta2
+projects[entity_autocomplete][version] = 1.0-beta3
 
 projects[views_arguments_extras][subdir] = contrib
 projects[views_arguments_extras][version] = 1.0-beta1
 
 projects[feeds][subdir] = contrib
-projects[feeds][version] = 2.0-alpha7
+projects[feeds][version] = 2.0-alpha8
 
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
