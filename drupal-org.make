@@ -14,6 +14,7 @@ projects[ctools][version] = 1.3
 
 projects[date][subdir] = contrib
 projects[date][version] = 2.6
+projects[date][type] = module
 
 projects[diff][subdir] = contrib
 projects[diff][version] = 3.2
@@ -85,6 +86,7 @@ projects[addthis][version] = 2.1-beta1
 
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = 1.4
+projects[google_analytics][type] = module
 
 projects[captcha][version] = 1.0
 projects[captcha][subdir] = contrib
