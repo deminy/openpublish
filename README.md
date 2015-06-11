@@ -2,7 +2,7 @@ Drupal module [OpenPublish](https://www.drupal.org/project/openpublish) is kind 
 Considering that it's probably the only choice for that type of Drupal modules, I'm using this GitHub repository to include
 community and personal updates of it.
 
-This is just to make OpenPublish working for me. Sorry but I have no intent nor enough time to take over development work of that
+This is just to make OpenPublish working for me. Sorry but I have no intent nor enough time to take over development work of this
 module.
 
 # Issues Addressed
