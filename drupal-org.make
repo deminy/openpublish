@@ -143,6 +143,7 @@ projects[job_scheduler][version] = 2.0-alpha3
 projects[tao] = 3.0-beta4
 projects[rubik] = 4.0-beta8
 projects[omega] = 3.1
+projects[omega][patch][] = https://drupal.org/files/issues/sslerror_omega_2125055_8.patch
 
 projects[delta][subdir] = contrib
 projects[delta][version] = 3.0-beta11
