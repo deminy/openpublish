@@ -5,9 +5,20 @@ community and personal updates of it.
 This is just to make OpenPublish working for me. Sorry but I have no intent nor enough time to take over development work of that
 module.
 
+# Issues Addressed
+
+* [Updates for some modules](https://www.drupal.org/node/2465183#comment-9849423), which also covers issue
+[dupal-org.make file broken link](https://www.drupal.org/node/2249381#comment-8719375) and
+[Upgrade Entity API to add fix for security issues](https://www.drupal.org/node/2079145).
+* [Contrib patch for omega theme](https://www.drupal.org/node/2125159#comment-8154047).
+
 # Credits
 
-* [patch](https://www.drupal.org/node/2465183) submitted by [Dmitry Evdokimov](https://www.drupal.org/u/dmitriy.evdokimovnibiru.pro)
+* [Joseph Cheek](https://www.drupal.org/u/josephcheek)
+* [Dmitry Evdokimov](https://www.drupal.org/u/dmitriy.evdokimovnibiru.pro)
+* [Chandan Singh](https://www.drupal.org/u/cs_shadow)
+* [James Todd](https://www.drupal.org/u/techninja)
+* [amit.verma](https://www.drupal.org/u/amit.verma)
 
 # References
 
